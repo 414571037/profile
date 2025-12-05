@@ -200,6 +200,30 @@ nav a {
     border-radius: 8px
 }
 
+/* 讓第一個專案的圖片完整顯示（不裁切）並置中 */
+.projects-grid .project-card:first-child img {
+    object-fit: contain;
+    object-position: center;
+    background: #f6f7fb;
+    height: 180px;
+}
+
+/* 讓第二個專案的圖片完整顯示（不裁切）並置中 */
+.projects-grid .project-card:nth-child(2) img {
+    object-fit: contain;
+    object-position: center;
+    background: #f6f7fb;
+    height: 180px;
+}
+
+/* 讓第三個專案的圖片完整顯示（不裁切）並置中 */
+.projects-grid .project-card:nth-child(3) img {
+    object-fit: contain;
+    object-position: center;
+    background: #f6f7fb;
+    height: 180px;
+}
+
 .project-card h3 {
     margin: 10px 0 6px
 }
