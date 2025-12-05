@@ -1,0 +1,25 @@
+{
+  "projects": [
+    {
+      "name": "Project One",
+      "description": "A brief description of Project One, highlighting its main features and technologies used.",
+      "role": "Developer",
+      "link": "https://github.com/username/project-one",
+      "image": "assets/screenshots/project-one-screenshot.png"
+    },
+    {
+      "name": "Project Two",
+      "description": "A brief description of Project Two, focusing on the problem it solves and its impact.",
+      "role": "Designer",
+      "link": "https://github.com/username/project-two",
+      "image": "assets/screenshots/project-two-screenshot.png"
+    },
+    {
+      "name": "Project Three",
+      "description": "A brief description of Project Three, detailing the technologies and methodologies applied.",
+      "role": "Project Manager",
+      "link": "https://github.com/username/project-three",
+      "image": "assets/screenshots/project-three-screenshot.png"
+    }
+  ]
+}
